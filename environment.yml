@@ -1,0 +1,10 @@
+name: huang-rhys
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - tk
+  - numpy
+  - scipy
+  - matplotlib
+  - pip
